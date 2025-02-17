@@ -26,4 +26,4 @@ npm start
 
 cd frontend
 npm start
- ML model ko deploy karne ke liye TensorFlow / Flask API ka use karo
+ 
